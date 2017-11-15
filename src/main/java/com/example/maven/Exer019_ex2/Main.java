@@ -6,7 +6,7 @@ public class Main {
 		Calculator cal = new Calculator();
 		
 		double firstNr = 7;
-		double secondNr = 0;
+		double secondNr = 2;
 		
 		System.out.println(cal.addition(firstNr, secondNr));
 		System.out.println(cal.subtraction(firstNr, secondNr));
