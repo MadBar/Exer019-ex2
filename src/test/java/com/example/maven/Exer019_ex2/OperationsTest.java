@@ -15,20 +15,23 @@ public class OperationsTest {
 		double result = cal.addition(firstTestNr, secondTestNr);
 		assertTrue(result == 16);
 	}
-/*
+
 	@Test
 	public void testSubtraction() {
-		fail("Not yet implemented");
+		double result = cal.subtraction(firstTestNr, secondTestNr);
+		assertTrue(result == 8);
 	}
 
 	@Test
 	public void testMultiply() {
-		fail("Not yet implemented");
+		double result = cal.multiply(firstTestNr, secondTestNr);
+		assertTrue(result == 48);
 	}
 
 	@Test
 	public void testDivition() {
-		fail("Not yet implemented");
+		double result = cal.divition(firstTestNr, secondTestNr);
+		assertTrue(result == 3);
 	}
-*/
+
 }
