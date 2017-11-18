@@ -7,6 +7,7 @@ public class Calculator {
 
 		return result;
 	}
+	//test does github work? 
 
 	public double subtraction(double firstNr,
 			double secondNr) {
